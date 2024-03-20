@@ -62,8 +62,8 @@ root:
     - victory:
         - part-of-speech:
             - n.
-        simpleChinese: [胜利]
-        suffix: -ory
-        comment: '-ory 名词或形容词后缀'
+        - simpleChinese: [胜利]
+        - suffix: -ory
+        - comment: '-ory 名词或形容词后缀'
     
 ```
