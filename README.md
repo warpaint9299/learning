@@ -65,5 +65,41 @@ root:
         - simpleChinese: [胜利]
         - suffix: -ory
         - comment: '-ory 名词或形容词后缀'
-    
+    - victorious:
+        - part-of-speech: adj.
+        - suffix: -ous
+        - comment: '-ous 形容词后缀 例: dangerous 危险的 '
+    - victoriously:
+        - part-of-speech: adv.
+        - suffix: -ly
+        - comment: '-ly 副词后缀'
+    - Victorian:
+        - part-of-speech: 
+            - n.
+            - adj.
+        - simpleChinese: [维多利亚时代]
+        - suffix: -an
+        - comment:
+            - '-an 名词或形容词后缀'
+            - 'Asia --> Asian'
+            - 'Africa --> African'
+            - 'Europe --> European'
+            - 'America --> American'
+    - Victorian-era:
+        - part-of-speech: n.
+        - simpleChinese: [维多利亚时代]
+        - comment: '合成词: era n. 时代'
+    - Victorian-style:
+        - part-of-speech: n.
+        - simpleChinese: [维多利亚风格]
+        - comment: '合成词: style n. 样式' 
+    - late-Victorian:
+        - part-of-speech: adj.
+        - simpleChinese: [维多利亚晚期]
+        - comment: '合成词: late adj. 晚的，迟的'
+    - neo-Victorian:
+        - part-of-speech: adj.
+        - simpleChinese: [新维多利亚的]
+        - comment: '合成词: neo- adj. 新的'
+
 ```
