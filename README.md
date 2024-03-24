@@ -21,95 +21,207 @@ semivowel:
 root:
   vinc:
     - province:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
+        - definitions:
+            - noun:
+                - A region
+                - A field of duty, activity or knowledge
+                - A department
         - simpleChinese: [省，领域，职权]
         - prefix: pro-
         - suffix: -e
+        - comment: '-e 名词后缀'
     - province-wide:
-        - part-of-speech:
+        - parts-of-speech:
             - adj.
             - adv.
         - simpleChinese: [全省的，全省地]
     - provincial:
-        - part-of-speech:
+        - parts-of-speech:
             - adj.
             - n.
+        - definitions:
+            - noun:
+                - An inhabitant of province or country district
+                - An unpolished or unsophisticated person
+                - The superintendent of the heads of the religious houses in a province
+            - adjective:
+                - Relating to a province
+                - Belonging to a province or the provinces
+                - Local
+                - Showing the habits and manners of a person from province or country district
+                - Unpolished, unsophisticated
+                - Narrow-minded
         - simpleChinese: [省的, 地方性的，乡下人, 外地人]
         - suffix: -al
+        - comment: '-al 名词或形容词后缀'
     - provincially:
-        - part-of-speech:
+        - parts-of-speech:
             - adv.
         - suffix: -ly
     - provinciality:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
         - simpleChinese: [地方特色，乡下习气]
         - suffix: -ty
     - provincialism:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
+        - definitions:
+            - noun:
+                - A manner, mode of speech or trun of thought peculiar to a province or a country district
+                - A local expression
+                - The state or quality of being provincial
+                - The ignorance and narrowness of interests shown by someone who gives his or her attention entirely to local affairs
         - simpleChinese: [地方主义]
         - suffix:
             - -ism
         - comment: '-ism 名词后缀 表...主义 例: personalism 个人主义'
     - convince
-        - part-of-speech: vt.
+        - parts-of-speech:
+            - vt.
         - definitions:
-            - transitive verb
+            - transitive verb:
                 - To persuade by evidence
                 - To satisfy as to truth or error
                 - To overcome, get the better of (archaic)
         - simpleChinese: [说服，使确信]
     - convinced:
-        - part-of-speech: adj.
+        - parts-of-speech:
+            - adj.
         - suffix: '-ed 形容词后缀'
     - unconvinced:
-        - part-of-speech: adj.
+        - parts-of-speech:
+            - adj.
         - simpleChinese: [不相信]
         - prefix: 'un- 表否定'
     - convincing:
-        - part-of-speech: adj.
+        - parts-of-speech:
+            - adj.
         - definitions:
-            - Producing conviction
-            - Certain,positive, beyond doubt
-            - (of a victory, etc) by a large or significant margin
+            - adjective:
+                - Producing conviction
+                - Certain,positive, beyond doubt
+                - (of a victory, etc) by a large or significant margin
         - simpleChinese: [令人信服的，深信不疑的]
         - suffix: '-ing 形容词后缀 表主动，表完成'
     - unconvincing:
-        - part-of-speech: adj.
+        - parts-of-speech:
+            - adj.
         - simpleChinese: [没有说服力的]
         - prefix: 'un- 表否定'
     - convincingly:
-        - part-of-speech: adv.
+        - parts-of-speech:
+            - adv.
         - suffix: '-ly 副词后缀'
     - unconvincingly:
-        - part-of-speech: adv.
+        - parts-of-speech:
+            - adv.
         - prefix: 'un- 表否定'
         - suffix: '-ly 副词后缀'
   vict:
-    - victor:
+    - convict:
+        - parts-of-speech:
+            - n.
+            - vt.
+        - definitions:
+            - noun:
+                - A person convicted or found guilty of crime
+                - A person serving a prison sentence
+            - transitive verb:
+                - To prove guilty
+                - To pronounce guilty
+    - conviction:
+        - parts-of-speech:
+            - n.
+        - definitions:
+            - noun:
+                - The state of being convinced
+                - Strong belief
+                - The act of convincing
+                - An act or an instance of proving guilty
+                - The condition of being consciously convicted of sin (teology)
+        - simpleChinese: [证明有罪，坚定的信仰]
+    - convictive:
+        - parts-of-speech:
+            - adj.
+        - definitions:
+            - adjective:
+                - Able to convince or convict
+    - convictism:
+        - parts-of-speech:
+            - n.
+        - definitions:
+            - noun:
+                - The system of establishing penal settlements for convicted prisoners
+    - ex-convict:
+        - parts-of-speech:
+            - n.
+    - post-conviction:
+        - parts-of-speech:
+            - n.
+    - evict:
+        - parts-of-speech:
+            - vt.
+        - definitions:
+            - transitive verb:
+                - To expel
+                - To dispossess by law
+        - simpleChinese: [驱逐]
+    - evictee:
+        - parts-of-speech:
+            - n.
+        - definitions:
+            - noun:
+                - A person who is evicted
+        - simpleChinese: [一个被驱逐的人]
+    - eviction:
+        - parts-of-speech:
+            - n.
+        - definitions:
+            - noun:
+                - The act of evicting from house or lands
+                - The dispossession of one person by another having a better title to property or land
+    - evictor:
         - part-of-speech:
             - n.
+        - simpleChinese: [驱逐者]
+    - victor:
+        - parts-of-speech:
+            - n.
+        - definitions:
+            - noun:
+                - a winner or winning side in a contest of any kind
         - simpleChinese: [胜利者]
         - suffix: -or
         - comment: '-or 或者 -er 名词后缀, 表人'
     - victory:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
+        - definitions:
+            - noun:
+                - A contest won
+                - Success against an opponent
         - simpleChinese: [胜利]
         - suffix: -ory
         - comment: '-ory 名词或形容词后缀'
     - victorious:
-        - part-of-speech: adj.
+        - parts-of-speech: adj.
+        - definitions:
+            - adjective:
+                - Having gained a victory
+                - Winning in a contest
+                - Of, with or marking victory
         - suffix: -ous
         - comment: '-ous 形容词后缀 例: dangerous 危险的 '
     - victoriously:
-        - part-of-speech: adv.
+        - parts-of-speech: 
+            - adv.
         - suffix: -ly
         - comment: '-ly 副词后缀'
     - Victorian:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
             - adj.
         - simpleChinese: [维多利亚时代]
@@ -121,26 +233,30 @@ root:
             - 'Europe --> European'
             - 'America --> American'
     - Victorian-era:
-        - part-of-speech: n.
+        - parts-of-speech:
+            - n.
         - simpleChinese: [维多利亚时代]
         - comment: '合成词: era n. 时代'
     - Victorian-style:
-        - part-of-speech: n.
+        - parts-of-speech: 
+            - n.
         - simpleChinese: [维多利亚风格]
         - comment: '合成词: style n. 样式'
     - late-Victorian:
-        - part-of-speech: adj.
+        - parts-of-speech: 
+            - adj.
         - simpleChinese: [维多利亚晚期]
         - comment: '合成词: late adj. 晚的，迟的'
     - neo-Victorian:
-        - part-of-speech: adj.
+        - parts-of-speech: 
+            - adj.
         - simpleChinese: [新维多利亚的]
         - comment: '合成词: neo- adj. 新的'
 
     - victim:
-        - part-of-speech: n.
+        - parts-of-speech: n.
         - definitions:
-            - noun: 
+            - noun:
                 - A prey
                 - A sufferer
                 - A living being offered as a sacrifice
@@ -149,19 +265,20 @@ root:
         - suffix: '-im'
         - comment: '-im 名词后缀，表人'
     - victimless:
-        - part-of-speech: adj.
+        - parts-of-speech: adj.
         - definitions:
-            - adjective
-            - (of crimes) involving no injured party, such as loitering, drunkeness, etc
+            - adjective:
+                - (of crimes) involving no injured party, such as loitering, drunkeness, etc
         - simpleChinese: [不侵害他人的]
         - suffix: -less
-        - comment: 
+        - comment:
             - '-less 形容词后缀，表否定'
             - 'hopeless adj. 绝望的'
             - 'homeless adj. 无家可归的'
             - 'carefulless adj. 粗心的'
     - victimize:
-        - part-of-speech: vt.
+        - parts-of-speech:
+            - vt.
         - definitions:
             - transitive verb:
                 - To make a victim of st/sb
@@ -170,18 +287,21 @@ root:
         - simpleChinese: [使受害，使牺牲，欺骗]
         - suffix: '-ize 动词后缀'
     - victimized:
-        - part-of-speech: vt.
+        - parts-of-speech: 
+            - vt.
         - suffix: '-ed 形容词后缀'
     - victimology:
-        - part-of-speech: noun.
+        - parts-of-speech: noun.
         - definition:
-            - noun.
-            - The behaviour study victim of crimes, to discover the psychological efficts on them, and their role in its commisson
+            - noun:
+                - The behaviour study victim of crimes, to discover the psychological efficts on them, and their role in its commission
     - victimization:
-        - part-of-speech: n.
+        - parts-of-speech:
+            - n.
         - suffix: '-tion 名词后缀'
     - victimizer:
-        - part-of-speech: n.
+        - parts-of-speech:
+            - n.
         - simpleChinese: [施害者]
         - suffix: '-er 表人'
 ```
