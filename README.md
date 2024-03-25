@@ -184,9 +184,39 @@ root:
                 - The act of evicting from house or lands
                 - The dispossession of one person by another having a better title to property or land
     - evictor:
-        - part-of-speech:
+        - parts-of-speech:
             - n.
         - simpleChinese: [驱逐者]
+    - evince:
+        - parts-of-speech:
+            - vt.
+        - simpleChinese: [表明，表示;引起]
+        - definitions:
+            - transitive verb:
+                - To prove beyond doubt
+                - To show clearly
+                - To make evident
+                - To give indication of
+                - To overcome or overpower
+    - evincement:
+        - parts-of-speech:
+            - n.
+        - suffix: -ment
+        - comment: '-ment 名词后缀'
+    - evincible:
+        - parts-of-speech:
+            - adj.
+        - suffix: '-ible 形容词后缀 表能够'
+    - evincibly:
+        - parts-of-speech:
+            - adv.
+        - suffix: '-ly 副词后缀'
+    - evincive:
+        - parts-of-speech:
+            - adj.
+        - definitions:
+            - adjective:
+                - Tending to evince, prove or demonstrate
     - victor:
         - parts-of-speech:
             - n.
@@ -194,6 +224,7 @@ root:
             - noun:
                 - a winner or winning side in a contest of any kind
         - simpleChinese: [胜利者]
+        winner
         - suffix: -or
         - comment: '-or 或者 -er 名词后缀, 表人'
     - victory:
