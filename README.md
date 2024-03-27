@@ -358,21 +358,44 @@ root:
                 - n.
                 - vi.
             - definitions:
-                - Shape
-                - A mould
-                - Something that holds or shapes, eg a piece of formwork
-                - A species or kind
-                - A pattern or type
-                - A way of being
-                - A manner of arrangement
-                - Order
-                - Regularity
-                - System, eg of goverment
-                - Beauty (obsolete)
-                - Style and arrangement
-                - Structural unity in music, iterature, painting, etc
-                - A prescribed set of words or course of action
-                - Ceremony
-                - Behaviour
-                - Condition of fitness or efficiency
+                - noun:
+                    - Shape
+                    - A mould
+                    - Something that holds or shapes, eg a piece of formwork
+                    - A species or kind
+                    - A pattern or type
+                    - A way of being
+                    - A manner of arrangement
+                    - Order
+                    - Regularity
+                    - System, eg of goverment
+                    - Beauty (obsolete)
+                    - Style and arrangement
+                    - Structural unity in music, iterature, painting, etc
+                    - A prescribed set of words or course of action
+                    - Ceremony
+                    - Behaviour
+                    - Condition of fitness or efficiency
+                    - A schedule to be filled in with details
+                    - A specimen document for imitation
+                    - The inherent nature of an object (philosophy)
+                    - That in which the essence of a thing consists
+                    - A complete set of crystal faces similar with respect to the symmetry of the crystal (crystallography)
+                    - Forme (printing)
+                    - A long seat or bench
+                    - A school class
+                    - The bed of a hare, shaped by the animal's body
+                    - A criminal record (slang)
+                    - The condition of fitness of eg a horse or athlete
+                    - A record of past performance of an athlete, horse, etc
+                    - (With the) the correct procedure (informal)
+                - transitive verb:
+                    - To give form or shape to
+                    - To bring into being
+                    - To make
+                    - To contrive
+                    - To conceive in the mind
+                    - To go to make up
+                    - To consitute
+                    - To establish
 ```
