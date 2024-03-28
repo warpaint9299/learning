@@ -387,7 +387,7 @@ root:
                     - The bed of a hare, shaped by the animal's body
                     - A criminal record (slang)
                     - The condition of fitness of eg a horse or athlete
-                    - A record of past performance of an athlete, horse, etc
+                    - A record of pasa performance of an athlete, horse, etc
                     - (With the) the correct procedure (informal)
                 - transitive verb:
                     - To give form or shape to
@@ -398,4 +398,64 @@ root:
                     - To go to make up
                     - To consitute
                     - To establish
+        - formable:
+            - part-of-speech:
+                - adj.
+            - suffix: '-able 形容词后缀'
+        - formative:
+            - part-of-speech:
+                - adj.
+                - noun
+            - definitions:
+                - adjective:
+                    - Giving form, determining, moulding
+                    - Capable of development
+                    - Growing
+                    - Serving to form words by derivation or inflection, no radical (grammer)
+                - noun:
+                    - A derivative
+                    - A formative element
+                    - Any grammatical element from which words and sentences are constructed
+        - formed:
+            - part-of-speech:
+                - adj.
+            - suffix: '-ed 形容词后缀'
+
+        - former:
+            - part-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Someone or something that forms, shapes or moulds
+                    - A tool for giving a coil winding the correct shape (elec eng)
+        - forming:
+            - part-of-speech:
+                - n.
+            - suffix: '-ing 名词或形容词后缀'
+        - formless:
+            - part-of-speech:
+                - adj.
+            - suffix: '-less 形容词后缀 表反义'
+        - formlessly:
+            - part-of-speech:
+                - adv.
+            - suffix: '-ly 副词后缀'
+        - formlessness:
+            - part-of-speech:
+                - n.
+            - suffix: '-ness 名词后缀'
+        - formation:
+            - part-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - A making or producing
+                    - Something formed or made, a structure
+                    - An arrangement (of eg troops, aircraft or players)
+                    - A group of strata used as a basis for rock mapping (geology)
+                    - A plant community (botany)
+        - formational:
+            - part-of-speech:
+                - adj.
+            - suffix: '-al 形容词后缀'
 ```
