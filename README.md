@@ -644,7 +644,33 @@ root:
             - parts-of-speech:
                 - adj.
             - definitions:
-                
+                - adjective:
+                    - Knowing, intelligent, educated
+            - suffix: '-ed 形容词后缀'
+        - informer:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - A person who gives information
+                    - A person who informs against- informer:
+                        - parts-of-speech:
+                            - n.
+                        - definitions:
+                            - noun:
+                                - A person who gives information
+                                - A person who informs against another
+                                - An animator or inspirer
+        - information highway:
+            - simpleChinese: '信息高速公路'
+        - information superhighway
+            - simpleChinese: '信息告诉公路'
+        - information theory:
+            - simpleChinese: '信息论'
+        - bioinformation:
+            - simpleChinese: '生物信息学'
+        - disinformation:
+            - simpleChinese: '假情报'
 
 
                 
