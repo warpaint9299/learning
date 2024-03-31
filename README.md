@@ -218,20 +218,20 @@ root:
                 - adjective:
                     - Tending to evince, prove or demonstrate
         - vincible:
-            - part-of-speech:
+            - parts-of-speech:
                 adj.
             - simpleChinese: [可征服的]
             - definitions:
                 - adjective:
                     - That may be overcome or conquered
         - invincible:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
             - simpleChinese: [不可被征服的]
             - prefix: 'in- 表相反'
             - suffix: '-ible = -able 表能够...'
         - invincibility:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
             - suffix: '-lity 名词后缀'
         - victor:
@@ -354,7 +354,7 @@ root:
             - suffix: '-er 表人'
     - form:
         - form:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
                 - vi.
             - definitions:
@@ -399,11 +399,11 @@ root:
                     - To consitute
                     - To establish
         - formable:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
             - suffix: '-able 形容词后缀'
         - formative:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
                 - noun
             - definitions:
@@ -417,35 +417,35 @@ root:
                     - A formative element
                     - Any grammatical element from which words and sentences are constructed
         - formed:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
             - suffix: '-ed 形容词后缀'
 
         - former:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
             - definitions:
                 - noun:
                     - Someone or something that forms, shapes or moulds
                     - A tool for giving a coil winding the correct shape (elec eng)
         - forming:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
             - suffix: '-ing 名词或形容词后缀'
         - formless:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
             - suffix: '-less 形容词后缀 表反义'
-        - formlessly:
-            - part-of-speech:
+        - formlessly:with a particular type of person
+            - parts-of-speech:
                 - adv.
             - suffix: '-ly 副词后缀'
         - formlessness:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
             - suffix: '-ness 名词后缀'
         - formation:
-            - part-of-speech:
+            - parts-of-speech:
                 - n.
             - definitions:
                 - noun:
@@ -455,7 +455,197 @@ root:
                     - A group of strata used as a basis for rock mapping (geology)
                     - A plant community (botany)
         - formational:
-            - part-of-speech:
+            - parts-of-speech:
                 - adj.
             - suffix: '-al 形容词后缀'
+        - formal:
+            - parts-of-speech:
+                - adj.
+                - n.
+            - definitions;
+                - adjecive:
+                    - According to form or established style
+                    - Relating to form
+                    - Ceremonious, punctilious or methodical
+                    - Of, or suitable for an important or serious occasion
+                    - Having the outward form only
+                    - Sane
+                    - Having the power of making a thing what it is
+                    - Essential
+                    - (of a logical system) using precisely defined conventions to enable deductions to be made
+                - noun:
+                    - A social event, esp for students, at which formal dress is worn (informal)
+                    - A garment suitable for an important occasion, esp a woman's evening dress
+        - formalism:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun.
+                    - Excessive observance of form or conventional usage
+                    - Stiffness of manner
+                    - Concentration on form or technique at the expense of social or moral content
+        - formalist:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - A person having exaggerated regard to rules or established usages
+                - A person who practises formalism
+        - formalistic:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-ic 形容词后缀'
+        - formality:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - The precise observance of forms or ceremonies
+                    - A matter of form
+                    - A ceremonious observance
+                    - Stiffness or conventionality
+                    - mere convention at the expense of substance
+            - suffix: '-ity 名词后缀'
+        - formalization:
+            - parts-of-speech:
+                - n.
+            - suffix: '-tion 名词后缀'
+        - formalize:
+            - parts-of-speech:
+                - vt.
+            - definitions:
+                - To make formal
+                - To make official or valid
+                - To make precise or give a clear statement of
+        - informal:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - Not of a formal or conventional nature
+                    - Characterized by lack of ceremony or formality
+                    - Relaxed, friendly, unceremonious
+                    - (esp of clothes) appropriate to everyday or casual use
+                    - (of speech or writing) having vocabulary, idiom, etc characteristic of conversational speech
+            - suffix: '-al 形容词后缀'
+        - informality:
+            - parts-of-speech:
+                - n.
+            - suffix: '-ity 名词后缀'
+        - informally:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-ly 形容词或副词后缀'
+        - malformation:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - a faulty structure
+                - a deformity
+            - suffix: '-tion 名词或形容词后缀'
+        - unformed:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - Unmade, uncreated
+                - Formless, unshaped
+                - Immature, undeveloped
+            - suffix: '-ed 形容词后缀'
+        - well-formed:
+            - parts-of-speech:
+                - adj.
+        - semiformal:
+            - parts-of-speech:
+                - adj.
+            - prefix: 'semi- 表一半'
+        - smog-forming:
+            - parts-of-speech:
+                - adj.
+            - prefix: 'smog- 烟雾'
+        - spongiform:
+            - parts-of-speech:
+                - adj.
+        - inform:
+            - parts-of-speech:
+                - vt.
+                - vi.
+            - definitions:
+                - transitive verb:
+                    - To pass on knowledge to
+                    - To tell
+                    - To animate or inspire
+                    - To give a quality to
+                    - To direct or educate
+                    - To give form to
+                - intransivite verb:
+                    - To give information, make an accusation
+                    - To take shape or form
+        - informant:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Someone who informs or communicates information
+            - suffix: '-ant 指人'
+        - informatician:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Someone engaged in informatics
+            - simpleChinese: '信息学家'
+        - informatics:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Information science
+                    - Information technology
+            - suffix: '-ics ...学科'
+        - information:
+            - parts-of-speech:
+                - n.
+            - defintions:
+                - noun:
+                    - The act of informing
+                    - Intelligence given
+                    - Knowledge
+                    - An accusation made before a magistrate or court
+                    - Data (computing)
+                    - Directory enquiries
+            - suffix: '-tion 名词后缀'
+        - informational:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-al 形容词后缀'
+        - informative:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - Having the power to form
+                    - Instructive
+            - simpleChinese: '信息丰富的'
+            - suffix: '-ive 形容词后缀'
+        - informatively:
+            - parts-of-speech:
+                - adv.
+        - informativeness:
+            - parts-of-speech:
+                - n.
+            - suffix: '-ness 名词后缀 表性质，状态'
+        - informatory:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Instructive
+                    - Giving information
+        - informed:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                
+
+
+                
 ```
