@@ -576,7 +576,7 @@ root:
                     - To give a quality to
                     - To direct or educate
                     - To give form to
-                - intransivite verb:
+                - intransitive verb:
                     - To give information, make an accusation
                     - To take shape or form
         - informant:
@@ -671,7 +671,160 @@ root:
             - simpleChinese: '生物信息学'
         - disinformation:
             - simpleChinese: '假情报'
-
-
-                
+        - piriform:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '梨形的'
+        - misinform:
+            - parts-of-speech:
+                - vt.
+            - definitions:
+                - transitive verb:
+                    - To inform or tell incorrectly or misleadingly
+        - misinformed:
+            - parts-of-speech:
+                - adj.
+                - n.
+        - misinformant:
+            - parts-of-speech:
+                - n.
+        - misinformer:
+            - parts-of-speech:
+                - n.
+        - misinformation:
+            - parts-of-speech:
+                - n.
+        - informing:
+            - parts-of-speech;
+                - adj.
+        - information-based:
+            - parts-of-speech:
+                - adj.
+        - information-gathering:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '信息收集'
+        - information-rich:
+            - parts-of-speech:
+                - adj.
+        - informed-consent:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '知会同意'
+        - information-processing:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '信息处理'
+        - ill-informed: 
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '消息不灵通的'
+        - perform:
+            - parts-of-speech:
+                - vt.
+                - vi.
+            - definitions:
+                - transitive verb:
+                    - To do
+                    - To carry out duly
+                    - To fulfil
+                    - To bring about
+                    - To carry into effect
+                    - To act in fulfilment of
+                    - To render
+                    - To execute
+                    - To go through duly
+                    - To act
+                    - To play in due form
+                - intransitive verb:
+                    - To do what is to be done
+                    - To execute a function
+                    - To act, bahave
+                    - To act a part
+                    - To play, sing or dance
+            - simpleChinese: '表演，执行'
+        - performance:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                   - The act of performing 
+                   - A carrying out of something
+                   - Something done
+                   - A piece of work
+                   - Manner or success in working
+                   - An act or action
+                   - Execution, esp as an exhibition or entertainment
+                   - The power or capability of a machine (esp a motor vehicle) to perform 
+                   - An instance of awkward, aggressive, embarrassing, etc, behaviour
+        - performable:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - Capable of being performed
+                    - Practicable
+            - suffix: '-able 形容词后缀 表...能力'
+        - performative:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '表演性的'
+        - performer:
+            - parts-of-speech;
+                - n.
+            - definitions:
+                - noun:
+                    - A person who performs
+                    - Someone who does or fulfils what is required
+                    - An executant
+                    - Someone who takes part in a performance or performances
+                    - A entertainer
+        - performing:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - That performs
+                    - Trained to perfome tricks
+        - outperform:
+            - parts-of-speech:
+                - vt.
+            - simpleChinese: '表现出色'
+        - high-performance:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '高性能'
+        - high-performing:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '高绩效'
+        - performance-enhancing:
+            - parts-of-speech: 
+                - adj.
+            - simpleChinese: '增强性能的'
+        - performance-based:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '基于绩效的'
+        - best-performing:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '表现最好的'
+        - performance-oriented:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '以绩效为导向的'
+        - performance-related:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '绩效相关的，性能相关的'
+        - pay-for-performance:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '绩效薪酬'
+        - performativity:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '表演性'
+            - suffix: '-ity 名词后缀'
 ```
