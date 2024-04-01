@@ -715,7 +715,7 @@ root:
             - parts-of-speech:
                 - n.
             - simpleChinese: '信息处理'
-        - ill-informed: 
+        - ill-informed:
             - parts-of-speech:
                 - adj.
             - simpleChinese: '消息不灵通的'
@@ -748,14 +748,14 @@ root:
                 - n.
             - definitions:
                 - noun:
-                   - The act of performing 
+                   - The act of performing
                    - A carrying out of something
                    - Something done
                    - A piece of work
                    - Manner or success in working
                    - An act or action
                    - Execution, esp as an exhibition or entertainment
-                   - The power or capability of a machine (esp a motor vehicle) to perform 
+                   - The power or capability of a machine (esp a motor vehicle) to perform
                    - An instance of awkward, aggressive, embarrassing, etc, behaviour
         - performable:
             - parts-of-speech:
@@ -799,7 +799,7 @@ root:
                 - n.
             - simpleChinese: '高绩效'
         - performance-enhancing:
-            - parts-of-speech: 
+            - parts-of-speech:
                 - adj.
             - simpleChinese: '增强性能的'
         - performance-based:
@@ -827,4 +827,35 @@ root:
                 - n.
             - simpleChinese: '表演性'
             - suffix: '-ity 名词后缀'
+        - underperforming:
+            - parts-of-speech:
+                - vi.
+                - vt.
+            - simpleChinese: '表现不佳，不如预期的那样'
+        - non-performing:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '不履行的'
+        - worst-performing:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '表现最差的'
+        - poor-performance:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '劣质的'
+        - low-performance:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '低性能的'
+        - formula:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - A prescribed form, esp a fixed phrase or set of phrases traditionally used on a ceremonial, etc occasion
+                    - A formal statement of doctrines
+                    - A recipe
+                    - A milk substitute (prepared from dried ingredients)for bottle-feeding babies
+                    - A statement of joint aims or principles worked out for practical purposes by diplomats of divergent interests
 ```
