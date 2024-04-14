@@ -463,7 +463,7 @@ root:
                 - adj.
                 - n.
             - definitions;
-                - adjecive:
+                - adjective:
                     - According to form or established style
                     - Relating to form
                     - Ceremonious, punctilious or methodical
@@ -858,4 +858,393 @@ root:
                     - A recipe
                     - A milk substitute (prepared from dried ingredients)for bottle-feeding babies
                     - A statement of joint aims or principles worked out for practical purposes by diplomats of divergent interests
+                    - A solution or answer worked out by different sides in a dispute, etc
+                    - A technical specification governing orig cars entered for certain motor-racing events, newalso applied to other recing vehicles or craft
+                    - A general expression for solving problems (mathematics)
+                    - A set of symbols expressing the compositions of a substance (chem)
+                    - A list of ingredients of a patent medicine
+            - simpleChinese: '数学公式，法则，原则'
+        - formulable:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-able 形容词后缀'
+            - simpleChinese: '可公式化的'
+        - formulate:
+            - parts-of-speech:
+                - vt.
+            - definitions:
+                - transitive verb:
+                    - To reduce to express in a formula
+                    - To state or express in a clear or definite form
+            - simpleChinese: '用公式表示'
+        - formulation:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '公式'
+        - formulated:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '按配方制造的'
+        - formulaic:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '公式化的，刻板的'
+        - reformulate:
+            - parts-of-speech:
+                - vt.
+            - simpleChinese: '重新表述'
+            - suffix: '-late 动词后缀'
+        - reformulation:
+            - parts-of-speech:
+                - n.
+            - suffix: '-tion 名词后缀'
+            - simpleChinese: '再形成，重新定制'
+        - formulary:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '处方药'
+        - formula-fed:
+            - parts-of-speech:
+                -n.
+            - simpleChinese: '配置饲料'
+        - format:
+            - parts-of-speech:
+                - n.
+                - vt.
+            - definitions:
+                - noun:
+                    - (of book, etc) the size, form or shape in which they are issued
+                    - The style, arrangement and contents of eg a radio or television programme
+                    - (The description of) the way data is, or is to be, arranged in a file, on a card, disk, tape, etc (computing)
+                - transitive verb:
+                    - To arrange (a book, etc) into a specific format  
+                    - To arrange (date) for use on a disk, tape, etc (computing)
+                    - To prepare (a disk, etc) for use by dividing it into sectors (computing)
+            - simpleChinese: '格式化，使排列'
+        - refomate:
+            - parts-of-speech:
+                - vt.
+            - simpleChinese: '重新格式化'
+        - formatting, formatted:
+            - parts-of-speech:
+                - adj.
+        - formatter:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - A program for formatting a disk, tape, etc
+            - simpleChinese: '用于格式化磁盘，磁带，等的程序'
+        - large-formate:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '大篇幅的'
+        - platform:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - A raised floor for speakers, musicians, etc
+                    - A raised pavement alongside the rack in railway station giving access to trains
+                    - A position prepared for mounting a gun
+                    - Any raised level surface
+                    - A terrace
+                    - A flooring
+                    - A plateau
+                    - A deck for a temporary or special purpose
+                    - A floating installation usu moored to the seabed, for drilling for iol, marine research, etc
+                    - Flooring outside an inner entrance to some buses, trams, or sometimes railway carriages
+                    - A site
+                    - A platform shoe or boot
+                    - A thick heavy sole of such a shoe or boot
+                    - A basis
+                    - The publicly declared principles and intentions of political party, taken as forming the basis of its policies
+                    - Any situation giving one access to an audience, that one can exploit as an opportunity for promoting one's views
+        - transform:
+            - parts-of-speech:
+                - vt.
+            - definitions:
+                - transitive verb:
+                    - To change the shape of
+                    - To change esp radically or thoroughly to another form, appearance, substance or character
+                    - To change the form of ( an algebraic expression and geometrical figure)
+        - transformable:
+            - parts-of-speech:
+                - adj.
+        - transformation:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - The act of transforming
+                    - A change of form, constitution or substance
+                    - Transmutation
+                    - a sudden, dramatic, change of scene, esp a scene on the stage that changes in presence of audience or in which the characters of the pantomime were transformed into those of the harlequinade
+                    - any of a number of grammatical rules converting the deep structure of sentence into its surface structure
+                    - Reflection, rotation, translation, or dilatation
+        - transformational:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-al 形容词后缀 侧重于方式'
+        - transformationally:
+            - parts-of-speech:
+                - adv.
+            - suffix: '-ly 副词后缀'
+        - transformative:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-tive 形容词后缀 侧重于结果，影响'
+        - transformed:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-ed 形容词后缀'
+        - transformer:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Someone or something that transforms
+                    - An apparatus for changing the voltage of an alternating electric current
+        - transformist:
+            - parts-of-speech:
+                - n.
+        - transformistic:
+            - parts-of-speech:
+                - adj.
+        - former:
+            - parts-of-speech:
+                - adj.
+        - formerly:
+            - parts-of-speech:
+                - adv.
+        - uniform:
+            - parts-of-speech:
+                - adj.
+                - n.
+                - adv.
+            - definitions:
+                - adjective:
+                    - Alike
+                    - Alike all over, throughout, or at all times
+                    - Unvarying
+                    - Of a military or other uniform
+                - noun:
+                    - A distinctive garb for members of a body
+                    - A suit of it
+                - transitive verb:
+                    - To make uniform
+                    - To clothe in uniform
+        - uniformed:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - wearing uniform
+        - uniformity:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - The state or fact of being uniform
+                - Agreement whit a pattern or rule
+                - Sameness
+                - Likeness between parts
+            - simpleChinese: '均匀的'
+        - uniformly:
+            - parts-of-speech:
+                - adv.
+        - uniformness:
+            - parts-of-speech:
+                - n.
+        - uniformitarin:
+            - parts-of-speech:
+                 - n.
+                 - adj.
+        - uniformitarianism:
+            - parts-of-speech:
+                n.
+        - reform:
+            - parts-of-speech:
+                - n.
+                - vt.
+            - definitions:
+                - transitive verb:
+                    - To transform
+                    - To restore, rebuild
+                    - To amend
+                    - To make better
+                    - To remove defects from
+                    - To redress
+                    - To bring to a better way of life
+                    - To prune
+        - reformaliblity:
+            - parts-of-speech:
+                - n.
+        - reformable:
+            - parts-of-speech:
+                - adj.
+        - reformation:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - The act of reforming
+                - Amendment
+                - Improvement
+        - reformational:
+            - parts-of-speech:
+                - adj.
+        - reformationist:
+            - parts-of-speech:
+                - n.
+        - reformative:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - Tending to produce reform
+        - reformatory:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - Reforming
+                - Tending to produce reform
+        - reformed:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - Changed
+                - Amended
+                - Improved
+                - (with cap) Protestant, esp Calvinistic, in doctrine or polity
+        - reformer:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - A person who reforms anything
+                - Someone who advocates political reform
+        - reformism:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - Any doctrine or movement advocating gradual social and political change within a democratic framework rather than revolutionary change
+        - reformist:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - A reformer
+                - An advocat of reformism
+        - reforming:
+            - parts-of-speech:
+                - n.
+            - suffix: '-ing 形容词或名词后缀'
+        - reformulate:
+            - parts-of-speech:
+                - vt.
+            - definitions:
+                - transitive verb:
+                    - To reduce to or express in a formula
+                    - To state or express in a clear or definite form
+            - suffix: '-ate 动词后缀'
+        - conform:
+            - parts-of-speech:
+                - vt.
+                - vi.
+            - definitions:
+                - transitive verb:
+                    - To make like or of the same form or type
+                    - To adapt
+                - intransitive verb:
+                    - To be or become of the same from or type
+                    - To comply
+                    - To obey
+        - conformity:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Similarity or adherence to the norm
+                    - Compliance
+                    - Consistency with a standard
+                    - Confromability (geology)
+            - suffix: '-ity 名词后缀'
+        - conformation:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - Particular from, shape or structure
+                    - Adaptation
+            - suffix: '-ation 名词后缀'
+        - conformational:
+            - parts-of-speech:
+                - adj.
+            - suffix: '-al 形容词后缀'
+        - conformator:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - A device for measuring a rounded shape, esp the human head
+        - conformer:
+            - parts-of-speech:
+                 - n.
+            - definitions:
+                - noun:
+                    - A conformist
+        - conformance:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '一致性'
+        - deform:
+            - parts-of-speech:
+                - vt.
+                - vi.
+                - adj.
+            - definitions:
+                - transitive verb:
+                    - To alter or injure the form of
+                    - To disfigure
+                    - To change the shape of without breaking into pieces
+                - intransitive verb:
+                    - To become altered in shape without breaking into pieces
+                - adjective:
+                    - Hideous, unshapely
+        - deformability:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '变形能力'
+            - suffix: '-ity 名词后缀'
+        - deformable:
+            - parts-of-speech:
+                - adj.
+            - simpleChinese: '变形能力的'
+            - suffix: '-able 形容词后缀'
+        - deformed:
+            - parts-of-speech:
+                - adj.
+            - definitions:
+                - adjective:
+                    - Misshapen, disfigured, etc
+        - deformedly:
+            - parts-of-speech:
+                - adv.
+        - deformedness:
+            - parts-of-speech:
+                - n.
+            - suffix: '-ness 名词后缀, 表状态或性质'
+        - deformer:
+            - parts-of-speech:
+                - n.
+            - simpleChinese: '变形器'
+        - deformity:
+            - parts-of-speech:
+                - n.
+            - definitions:
+                - noun:
+                    - The state of being deformed
+                    - Lack of proper shape
+                    - Ugliness
+                    - Disfigurement
+                    - Anything that destroys beauty
+                    - An ugly feature or characteristic
+        
+
+
 ```
