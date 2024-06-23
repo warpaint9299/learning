@@ -17,10 +17,102 @@ semivowel:
 
 ### words
 
+- [ ] distinguish = differentiate = discriminate
+  - verb.
+- [ ] instead = on the contrary
+  - adv.
+- [ ] opposite = reverse = contrary = inverse = otherwish = antithesis
+  - noun.
+- [ ] advantage = good point = strong point = virtue = merit
+  - noun.
+- [ ] advantage = benefit = gain = profit = boot
+- [ ] corner = angle = horn = role = cape = jiao
+  - noun.
+- [ ] corner = nook = cant
+  - noun.
+- [ ] occupy = hold = capture = seize
+  - verb.
+- [ ] worth = value
+  - adj.
+- [ ] halfway = midway = on one's way
+  - adj.
+- [ ] tiny = small = little = few = tabloid
+  - adj.
+- [ ] exclusive
+  - adj.
+- [ ] caret
+  - noun.
+- [ ] paragraph = segment = section = part = passage = dan
+  - noun.
+- [ ] sense = feel = feeling = sensation = perception
+  - noun.
+- [ ] separate = detach = segregate = dissociate = sever = depart
+  - adj.
+- [ ] punctuation
+  - noun.
+- [ ] 'recognize = know = acquaint = be familiar
+  - verb.
+- [ ] effect = result = consequent = sequel
+  - noun.
+- [ ] reluctant = unwilling = wary
+  - adj.
+- [ ] refuse = deny = reject
+  - verb.
+- [ ] realize = achieve = implement = bring about = comply
+  - verb.
+- [ ] sequence = order = turn = queue = gradation = regular succession = array = suite
+  - noun.
+    - sequence of changes.
+- [ ] discard = fall away = abandon = dice = give up = trash = set aside = scrap = desert = throw away = relinquish
+  - verb.
+- [ ] produce = generate = yield = bring = emerge = bring about
+  - verb.
+- [ ] triple
+  - adj.
+    - single
+    - double
+    - triple
+    - quadruple
+    - quintuple
+    - sextuple
+    - seqtuple
+    - octuple
+    - nonuple
+    - decuple
+    - vigintuple
+    - trigintuple
+    - quadragintuple
+    - quinquagintuple
+    - sexagintuple
+    - septuagintuple
+    - octogintuple
+    - centuple
+    - kilotuple
+- [ ] limerick
+  - noun.
+- [ ] abrupt = unexpected = sudden
+  - adj.
+- [ ] exclamation = plaint
+  - noun.
+    - exclamation point.
+- [ ] cursor = vernier = nonius
+- [ ] confuse = puzzle = mystify = bewitch = baffle = glamor
+  - verb.
+- [ ] appear = arise = emerge
+  - verb.
+- [ ] appear = seem
+  - verb.
+- [ ] precede = improve = exceed = surpass = outdo = outstrip = outride = outpace = overstep
+  - verb.
+- [ ] preceding = former = previous = one-time
+  - adj.
+- [ ] novice = learner = intern = trainee = student = beginner
 - [ ] suppose = assume
   - verb.
 - [ ] sig'nificant = important = great
   - adj.
+- [ ] 'signify = express = show = say = indicate = represent
+  - verb.
 - [ ] **\*** thrice
   - adv.
     - once, twice
