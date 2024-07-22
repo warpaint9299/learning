@@ -17,6 +17,61 @@ semivowel:
 
 ### words
 
+- [ ] equal to
+    , not equal to
+    , greater than
+    , greater than or equal to
+    , less than
+    , less than or equal to
+- [ ] assign = allocate = distribute = allot
+  - verb.
+- [ ] negate = deny = negative = gainsay
+  - verb.
+- [ ] in'terpret = translate = decoce = decipher
+  - verb.
+- [ ] impatient = irritable = impetuous = rash
+  - adj.
+- [ ] grab = catch = seize = stress
+  - verb.
+- [ ] wonder = miracle = marvel
+  - noun.
+- [ ] similar = about the same = just about right
+  - adj.
+- [ ] annoy = disturb
+  - verb.
+- [ ] relevant = corresponding
+  - adj.
+- [ ] mechanic = machinist
+  - noun.
+- [ ] obvious = clear = evident = distinct
+  - adj.
+- [ ] voluntary
+  - adj.
+- [ ] reach = achieve = measure up = attain
+- [ ] reach = arrive = get to = compass
+  - verb.
+- [ ] manipulate = controle = operate = rig
+  - verb.
+- [ ] attempt = essay = overture = try
+  - verb.
+- [ ] inherent = natural = intrinsic
+  - adj.
+- [ ] intent = intention = aim = goal = plan = meaning = purpose = disposition
+  - noun.
+- [ ] matter = matters = importance = significance
+  - verb
+- [ ] conclusion = ending = expiry = completion = finish
+  - noun.
+- [ ] entire = whole = total
+  - adj.
+- [ ] consistency = conformity
+  - noun.
+- [ ] inconsistency = antilogy
+  - noun.
+- [ ] forth = forward = ahead = onward = foremost
+  - adv.
+- [ ] mention = refer
+  - verb.
 - [ ] distinguish = differentiate = discriminate
   - verb.
 - [ ] instead = on the contrary
